@@ -13,10 +13,10 @@ with open(gas_file, "a") as file:
     file.write(str(fastest_fee) + "\n")
 
 interval = 60  # 每隔1分钟运行一次
-threshold = 1.2  # 如果比上次增加10%以上，发送邮件通知
-sender_email = "634618617@qq.com"
-sender_password = "bimkemqeazeebdbj"
-receiver_email = "22489471@qq.com"
+threshold = 1.2  # 如果比上次增加20%以上，发送邮件通知
+sender_email = "你的发送邮箱"
+sender_password = "发送邮箱密码"
+receiver_email = "你的接收邮箱"
 
 def get_bitcoin_fee():
     try:
