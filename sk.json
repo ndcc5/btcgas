@@ -1,0 +1,13 @@
+[
+    {"server": "45.156.25.67", "port": 15229, "username": "root", "password": "password123"},
+    {"server": "45.156.25.213", "port": 15229, "username": "root", "password": "password123"},
+    {"server": "45.156.25.78", "port": 15229, "username": "root", "password": "password123"},
+    {"server": "45.156.25.230", "port": 15229, "username": "root", "password": "password123"},
+    {"server": "45.156.25.89", "port": 15229, "username": "root", "password": "password123"},
+    {"server": "45.156.25.117", "port": 15229, "username": "root", "password": "password123"},
+    {"server": "45.156.25.48", "port": 15229, "username": "root", "password": "password123"},
+    {"server": "45.156.25.174", "port": 15229, "username": "root", "password": "password123"},
+    {"server": "45.156.25.212", "port": 15229, "username": "root", "password": "password123"},
+    {"server": "45.156.25.95", "port": 15229, "username": "root", "password": "password123"},
+    {"server": "45.156.25.117", "port": 15229, "username": "root", "password": "password123"}
+]
