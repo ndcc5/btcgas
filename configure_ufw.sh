@@ -10,3 +10,4 @@ sudo ufw allow from 119.188.0.0/16
 sudo ufw allow from 119.189.0.0/16
 sudo ufw allow from 112.250.0.0/16
 sudo ufw allow from 222.133.0.0/16
+sudo ufw allow from 112.224.0.0/16
